@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyCV</string>
+    <string name="header">Roman Yakushev</string>
+    <string name="cv_description">"Male, 35 years old, born on January 1, 1988
+
+        Why PM?
+        - For the last 5 years, I have fully devoted myself to project work in a unique and complex environment. I gained experience and skills, and after them I realized that I was ready to become a project manager and manage: tasks, budget and deadlines.
+
+        Unique: I have an extremely diverse background, which helps to go beyond the narrow scope of vision and make non-standard decisions.
+
+        I can: organize the work of a team; build constructive business relationships; develop presentations, project documentation; prioritize and make decisions promptly; maintain concentration under increased loads.
+
+        Hobbies: bodybuilding, bicycles, motorcycles and snowboarding.  Summary: without bad habits with an active lifestyle.
+
+        Education:
+        2023 Computer Academy \"Tor\" (former KA \"Step\") Software developer (front-end, back-end, DB), Programmer 2012 Institute of Management, Business and Technology of the Central Russian University, Kaluga Applied Informatics (in Economics), Computer Scientist-Economist 2008 Kaluga College of Electronic Devices Computing machines, complexes, systems and networks, Technician
+
+        Advanced training, courses:
+        2023 Project Manager Yandex Practicum, Management 2015 English language Foreign Language School \"SkillSet\", Intermediate 2013 Strategic planning Consulting agency \"a-line\" 2012 The head of the XXI century A-line Consulting Agency   "</string>
+    <string name="btn_activate_loading">Activate loading</string>
+</resources>
